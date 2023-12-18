@@ -1,4 +1,5 @@
 ### Hi there 👋
+My Name is Joe. I am a first year student, studying Computer Science MSc. 
 
 <!--
 **joerat1234/joerat1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
