@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Joe. I am a first year student, studying Computer Science MSc. 
+My name is Joe. I am a teaching myself the basics of coding, with the end goal of becoming a software developer! 
 Here you will find some of the projects I am currently working on, or have finished. 
 Here's a little more about me:
 - I’m currently working on making a free money splitting app to use with my wife and friends, a board game score tracker and a few other projects
